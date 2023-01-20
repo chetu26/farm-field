@@ -1,0 +1,11 @@
+{
+    "info": {},
+    "licenses": [],
+    "categories": [
+        {
+            "supercategory": "AgriculturalFields",
+            "id": 1,
+            "name": "agfields_singleclass"
+        }
+    ]
+}
